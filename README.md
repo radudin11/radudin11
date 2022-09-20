@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @radudin11
 - 👀 I’m interested in learning about programming and every aspect of being a good engineer
-- 🌱 I’m currently learning how to work with c language and how to build wbesites using css/html
 - 💞️ I’m looking to collaborate on anything benefic to me becoming better at computer science
 - 📫 How to reach me: email: rodede.radu@gmail.com
 
